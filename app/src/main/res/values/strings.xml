@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NfcSend</string>
+    <string name="not_nfc">暂无nfc功能，请更换设备</string>
+    <string name="nfc_fail">nfc功能暂未开启，请先开启</string>
+    <string name="introduce">使用NFC功能进行点对点方式传输数据，传输数据已NdefMessage方式实现</string>
+    <string name="content">输入想要传输的内容：</string>
+</resources>
